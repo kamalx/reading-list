@@ -1,4 +1,4 @@
-> Collection of book suugested by BangaloreJS friends.
+## Collection of books suggested by BangaloreJS friends
 
 
 | Title  | Author   |
@@ -7,9 +7,7 @@
 
 
 
-
-
-> Collection of blogs on Promises
+### Collection of blogs on Promises
 
 | Title  | Author   |
 |--------|----------|
@@ -17,19 +15,19 @@
 |[Promises are functional...](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)| [James Coglani](https://blog.jcoglan.com/)
 
 
-> Collection of web sites to learn JavaScript
+### Collection of web sites to learn JavaScript
 
 [Superhero.js](http://superherojs.com/)
 
 
-> ECMAScript 6
+### ECMAScript 6
 
 | Title  | Author   |
 |--------|----------|
 |[Understanding ECMAScript6](https://github.com/nzakas/understandinges6) |[Nicholas C. Zakas](https://github.com/nzakas)
 
 
-> Node.js
+### Node.js
 
 | Title  | Author   |
 |--------|----------|
@@ -41,14 +39,14 @@
 
 
 
-> Front-end Tooling 
+### Front-end Tooling 
 
 | Title  | Author   |
 |--------|----------|
 | [Front-end Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling/dependency-management/webpack/getting-started.html)|[Community](https://github.com/tooling/book-of-modern-frontend-tooling/graphs/contributors)
 
 
->Three.js or WebGL
+### Three.js or WebGL
 
 | Title  | Author   |
 |--------|----------|
